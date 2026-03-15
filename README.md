@@ -1,10 +1,12 @@
 <!-- ========================================== -->
-<!-- 🖤 ELEGANT DARK PROFILE - PRATHIMA -->
+<!-- 🖤 ELEGANT PROFESSIONAL PROFILE - PRATHIMA -->
 <!-- ========================================== -->
 
+<!-- HEADER -->
 <h1 align="center">Prathima Jujjuvarapu</h1>
-<h3 align="center">Full Stack .NET & Angular Developer</h3>
+<h3 align="center">Full Stack .NET & Angular Developer | Microservices Architect</h3>
 
+<!-- CONNECT BADGES (flat, subtle colors) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -15,7 +17,7 @@
   <a href="https://github.com/Prathima-Jujjuvarapu-dotnet">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Prathima-Jujjuvarapu-dotnet&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prathima-Jujjuvarapu-dotnet&label=Profile%20Views&color=2F80ED&style=flat" alt="Profile Views" />
 </p>
 
 <!-- subtle divider -->
@@ -27,7 +29,10 @@
 
 ## 🏥 Pharmacy Management System
 
-Microservices‑based solution for pharmacy operations – 8 services, 6 roles, JWT+OTP auth, Angular dashboards.
+A production‑ready microservices solution for pharmacy operations – built with **.NET 8** and **Angular**.
+
+**Key features:**  
+8 microservices · 6 admin roles (RBAC) · JWT + OTP/QR authentication · Role‑specific Angular dashboards · Shared DataAccessLayer with email & exception handling
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -45,10 +50,10 @@ Microservices‑based solution for pharmacy operations – 8 services, 6 roles, 
 </p>
 
 <!-- ========================================== -->
-<!-- 🛠️ CORE SKILLS -->
+<!-- 🛠️ TECH STACK (single concise line) -->
 <!-- ========================================== -->
 
-## 💻 Core Skills
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -61,16 +66,6 @@ Microservices‑based solution for pharmacy operations – 8 services, 6 roles, 
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%202022-5C2D91?style=flat&logo=visualstudio&logoColor=white" />
 </p>
-
-<!-- ========================================== -->
-<!-- 👑 ADMIN ROLES -->
-<!-- ========================================== -->
-
-## 🔐 Admin Roles
-
-| Super Admin | Drug Admin | Supplier Admin | Order Admin | Payment Admin | Sales Admin |
-|:-----------:|:----------:|:--------------:|:-----------:|:-------------:|:-----------:|
-| Full Access | Medicine Catalog | Stock Management | Order Processing | Transactions | Sales Tracking |
 
 <!-- ========================================== -->
 <!-- 📊 GITHUB STATISTICS (unchanged) -->
@@ -100,7 +95,18 @@ Microservices‑based solution for pharmacy operations – 8 services, 6 roles, 
 </p>
 
 <!-- ========================================== -->
-<!-- 📬 CONNECT & FOOTER -->
+<!-- 🎯 CURRENT FOCUS (simple) -->
+<!-- ========================================== -->
+
+## 🎯 Current Focus
+
+- ☁️ Deploying Pharmacy Management System to Azure
+- 📦 Learning Docker & Kubernetes
+- 🤖 Exploring AI for drug recommendations
+- 🤝 Open to collaborations on .NET/Angular projects
+
+<!-- ========================================== -->
+<!-- 📬 CONNECT -->
 <!-- ========================================== -->
 
 <hr width="70%" style="border: 1px solid #30363d;" />

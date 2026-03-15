@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prathima.j.dev@gmail.com">
+  <a href="mailto:prathimasparjen211202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Prathima-Jujjuvarapu-dotnet">
@@ -102,9 +102,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://profile-counter.glitch.me/Prathima-Jujjuvarapu-dotnet/count.svg" />
-</p>
+</p> -->
 
 <p align="center">
   <sub>Full Stack Developer · .NET + Angular · Microservices Expert</sub>

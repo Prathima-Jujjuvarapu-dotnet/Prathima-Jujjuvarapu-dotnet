@@ -9,7 +9,7 @@
 
 <!-- CONNECT BADGES (flat, professional) -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
+  <a href="https://www.linkedin.com/in/prathima-jujjuvarapu-259a31200/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:prathimasparjen211202@gmail.com">
@@ -91,10 +91,10 @@
 <hr width="70%" style="border: 1px solid #30363d;" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
+  <a href="https://www.linkedin.com/in/prathima-jujjuvarapu-259a31200/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:prathima.j.dev@gmail.com">
+  <a href="mailto:prathimasparjen211202@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Prathima-Jujjuvarapu-dotnet">

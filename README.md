@@ -1,9 +1,5 @@
-<!-- ========================================== -->
-<!-- 🌟 OPTIMIZED ULTRA-PRO README – LAPTOP VERSION -->
-<!-- ========================================== -->
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=60&duration=4000&pause=500&color=FF69B4&width=700&lines=Hi+%F0%9F%91%8B+I'm+Prathima+%E2%9C%A8;Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Apps+with+Passion"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FF69B4&width=600&lines=Hi+%F0%9F%91%8B+I'm+Prathima+%E2%9C%A8;Full+Stack+.NET+%26+Angular+Developer;Building+Scalable+Web+Apps+with+Passion"/>
 </h1>
 
 <p align="center">
@@ -80,8 +76,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=00BFFF&width=600&lines=Interactive+UI+%7C+API+Integration+%7C+Animations"/>
 </p>
 
-- Interactive SPA dashboards  
-- Responsive & animated UI  
+- SPA dashboards with **animated UI**  
+- Responsive design, hover effects, interactive charts  
 - **Tech:** Angular, TypeScript, CSS, RxJS  
 - 🔗 [GitHub Repo](#)
 
@@ -122,5 +118,5 @@
 
 ## 🌌 Footer
 <p align="center">
-  Made with 💖 by **Prathima** | Optimized Ultra-Pro GitHub README  
+  Made with 💖 by **Prathima** | Final Ultra-Pro GitHub README  
 </p>

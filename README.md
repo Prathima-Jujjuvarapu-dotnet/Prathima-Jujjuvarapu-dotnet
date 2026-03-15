@@ -105,30 +105,30 @@ A production-ready pharmacy management system built with modern architecture
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ========================================== -->
-<!-- 📊 SKILL LEVELS - ALTERNATIVE PROGRESS BARS (GEPS.DEV) -->
+<!-- 📊 SKILL LEVELS - SMALL PROFESSIONAL BARS -->
 <!-- ========================================== -->
 
 ## 📈 **SKILL PROFICIENCY**
 
 <p align="left">
   <b>.NET / C# - Expert (95%)</b><br>
-  <img src="https://geps.dev/progress/95?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4" width="600" height="25" />
+  <img src="https://geps.dev/progress/95?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4" width="400" height="15" />
   <br><br>
   
   <b>Angular / TypeScript - Advanced (90%)</b><br>
-  <img src="https://geps.dev/progress/90?dangerColor=00BFFF&warningColor=00BFFF&successColor=00BFFF" width="600" height="25" />
+  <img src="https://geps.dev/progress/90?dangerColor=00BFFF&warningColor=00BFFF&successColor=00BFFF" width="400" height="15" />
   <br><br>
   
   <b>SQL Server - Advanced (85%)</b><br>
-  <img src="https://geps.dev/progress/85?dangerColor=32CD32&warningColor=32CD32&successColor=32CD32" width="600" height="25" />
+  <img src="https://geps.dev/progress/85?dangerColor=32CD32&warningColor=32CD32&successColor=32CD32" width="400" height="15" />
   <br><br>
   
   <b>Microservices - Advanced (88%)</b><br>
-  <img src="https://geps.dev/progress/88?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" width="600" height="25" />
+  <img src="https://geps.dev/progress/88?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" width="400" height="15" />
   <br><br>
   
   <b>Cloud / DevOps - Intermediate (70%)</b><br>
-  <img src="https://geps.dev/progress/70?dangerColor=FF4500&warningColor=FF4500&successColor=FF4500" width="600" height="25" />
+  <img src="https://geps.dev/progress/70?dangerColor=FF4500&warningColor=FF4500&successColor=FF4500" width="400" height="15" />
 </p>
 
 <!-- DIVIDER -->
@@ -285,7 +285,7 @@ A production-ready pharmacy management system built with modern architecture
   <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:prathima.j.dev@gmail.com">
+  <a href="mailto:prathimasparjen211202@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
   </a>
   <a href="https://github.com/Prathima-Jujjuvarapu-dotnet">

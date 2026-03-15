@@ -9,7 +9,7 @@ I build scalable web applications using modern technologies like ASP.NET Core, A
 ## Tech Stack
 
 Backend
-- .NET 8,9
+- .NET 9
 - ASP.NET Core Web API
 - Microservices
 - Entity Framework Core

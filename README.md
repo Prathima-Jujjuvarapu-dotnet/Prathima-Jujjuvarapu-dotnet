@@ -4,7 +4,7 @@
 
 <!-- HEADER TYPOGRAPHY -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer;Microservices+Architect;Healthcare+Tech+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer;Microservices+Architect;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <!-- CONNECT BADGES -->
@@ -34,54 +34,37 @@
 
 ## 🏥 **PHARMACY MANAGEMENT SYSTEM** - FLAGSHIP PROJECT
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="60%">
-        <h3>📊 Enterprise Microservices Solution</h3>
-        <p>A production-ready pharmacy management system built with modern architecture</p>
-        
-        <h4>✨ Key Features:</h4>
-        <ul>
-          <li>✅ <strong>8 Microservices</strong> with Ocelot API Gateway</li>
-          <li>✅ <strong>6 Admin Roles</strong> with policy-based RBAC</li>
-          <li>✅ <strong>Dual Authentication</strong> (JWT + OTP/QR)</li>
-          <li>✅ <strong>Role-Specific Angular Dashboards</strong></li>
-          <li>✅ <strong>Shared DataAccessLayer</strong> with Email & Exception Handling</li>
-        </ul>
-        
-        <h4>🔧 Tech Stack:</h4>
-        <p>
-          <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" />
-          <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat&logo=angular&logoColor=white" />
-          <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-          <img src="https://img.shields.io/badge/Ocelot-5C2D91?style=flat&logo=.net&logoColor=white" />
-        </p>
-        
-        <p>
-          <a href="https://github.com/Prathima-Jujjuvarapu-dotnet/Pharmacy-Management-System">
-            <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
-          </a>
-        </p>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://skillicons.dev/icons?i=dotnet,angular,cs,ts,sqlserver&perline=3" />
-        <br/>
-        <img src="https://img.shields.io/badge/Microservices-8-FF69B4?style=for-the-badge" />
-        <br/>
-        <img src="https://img.shields.io/badge/Roles-6-00BFFF?style=for-the-badge" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- PROJECT METRICS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Microservices-8-FF69B4?style=for-the-badge&logo=docker" />
-  <img src="https://img.shields.io/badge/API_Gateway-Ocelot-5C2D91?style=for-the-badge&logo=.net" />
-  <img src="https://img.shields.io/badge/Authentication-JWT%2BOTP-00FFFF?style=for-the-badge&logo=json-web-tokens" />
-  <img src="https://img.shields.io/badge/RBAC_Roles-6-FFD700?style=for-the-badge&logo=security" />
+  <strong>📊 Enterprise Microservices Solution</strong><br />
+  A production-ready pharmacy management system built with modern architecture
+</p>
+
+### ✨ Key Features
+- ✅ **8 Microservices** with Ocelot API Gateway
+- ✅ **6 Admin Roles** with policy-based RBAC
+- ✅ **Dual Authentication** (JWT + OTP/QR)
+- ✅ **Role-Specific Angular Dashboards**
+- ✅ **Shared DataAccessLayer** with Email & Exception Handling
+
+### 🔧 Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ocelot-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Prathima-Jujjuvarapu-dotnet/Pharmacy-Management-System">
+    <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-8-FF69B4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Roles-6-00BFFF?style=for-the-badge" />
 </p>
 
 <!-- DIVIDER -->
@@ -128,6 +111,8 @@
 <!-- ========================================== -->
 
 ## 📈 **SKILL PROFICIENCY**
+
+> ⚠️ **Note:** If progress bars don't load, you can view them [here](https://progress-bar.dev/). They are generated via a third-party service.
 
 <p align="left">
   <b>.NET / C# - Expert (95%)</b><br>
@@ -259,7 +244,7 @@
   <br><br>
   **💡 Next Feature:** AI-based drug recommendation engine
   <br><br>
-  **🤝 Open to:** Healthcare tech collaborations & microservices projects
+  **🤝 Open to:** Full-stack .NET/Angular projects & microservices collaborations
 </details>
 
 <!-- DIVIDER -->
@@ -321,7 +306,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF69B4&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing!+🚀" alt="Footer Typing" />
+  <strong>Thanks for visiting! ⭐</strong><br />
+  <em>Let's build something amazing together! 🚀</em>
 </p>
 
 <p align="center">

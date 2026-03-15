@@ -2,6 +2,10 @@
 <!-- 🌟 CLEAN & PRO GITHUB README – SAFE VERSION -->
 <!-- ========================================== -->
 
+
+
+
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&duration=3000&pause=500&color=FF69B4&width=500&lines=Hi+%F0%9F%91%8B+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer"/>
 </h1>

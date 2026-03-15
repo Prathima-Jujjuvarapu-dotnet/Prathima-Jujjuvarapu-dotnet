@@ -1,11 +1,12 @@
 <!-- ========================================== -->
-<!-- 🌟 FULLY WORKING PRO GITHUB README -->
+<!-- 🌟 FINAL PRO GITHUB README -->
 <!-- ========================================== -->
 
-# 👋 Hi, I'm Prathima
+# Hi, I'm Prathima 👋
 
 **Full Stack Developer (.NET & Angular)** 🚀  
-Building scalable web applications with real-world projects and professional skills.
+
+![Full Stack Developer](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2000&pause=500&color=FF69B4&width=400&lines=Full+Stack+.NET+%26+Angular+Developer)
 
 ---
 
@@ -40,8 +41,8 @@ Building scalable web applications with real-world projects and professional ski
 ---
 
 ## ⚡ Skill Levels
-- ![Backend](https://img.shields.io/badge/Backend-.NET%20C%23-90%25-FF69B4?style=flat)
-- ![Frontend](https://img.shields.io/badge/Frontend-Angular%2085%25-00BFFF?style=flat)
+- ![Backend](https://img.shields.io/badge/Backend-%2E%20NET%20C%23-90%25-FF69B4?style=flat)
+- ![Frontend](https://img.shields.io/badge/Frontend-Angular-85%25-00BFFF?style=flat)
 - ![Database](https://img.shields.io/badge/Database-SQL%20Server-80%25-32CD32?style=flat)
 
 ---

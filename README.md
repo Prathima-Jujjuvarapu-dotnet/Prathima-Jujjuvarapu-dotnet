@@ -2,9 +2,9 @@
 <!-- 🌟 PREMIUM GITHUB PROFILE - PRATHIMA -->
 <!-- ========================================== -->
 
-<!-- HEADER TYPOGRAPHY -->
+<!-- HEADER TYPOGRAPHY - Adjusted width to prevent text cutoff -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer;Microservices+Architect;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer;Microservices+Architect;Problem+Solver" alt="Typing SVG" />
 </h1>
 
 <!-- CONNECT BADGES -->
@@ -34,10 +34,8 @@
 
 ## 🏥 **PHARMACY MANAGEMENT SYSTEM** - FLAGSHIP PROJECT
 
-<p align="center">
-  <strong>📊 Enterprise Microservices Solution</strong><br />
-  A production-ready pharmacy management system built with modern architecture
-</p>
+**📊 Enterprise Microservices Solution**  
+A production-ready pharmacy management system built with modern architecture
 
 ### ✨ Key Features
 - ✅ **8 Microservices** with Ocelot API Gateway
@@ -107,32 +105,30 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ========================================== -->
-<!-- 📊 SKILL LEVELS - PROGRESS BARS -->
+<!-- 📊 SKILL LEVELS - ALTERNATIVE PROGRESS BARS (GEPS.DEV) -->
 <!-- ========================================== -->
 
 ## 📈 **SKILL PROFICIENCY**
 
-> ⚠️ **Note:** If progress bars don't load, you can view them [here](https://progress-bar.dev/). They are generated via a third-party service.
-
 <p align="left">
   <b>.NET / C# - Expert (95%)</b><br>
-  <img src="https://progress-bar.dev/95/?title=&width=600&color=FF69B4" />
+  <img src="https://geps.dev/progress/95?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4" width="600" height="25" />
   <br><br>
   
   <b>Angular / TypeScript - Advanced (90%)</b><br>
-  <img src="https://progress-bar.dev/90/?title=&width=600&color=00BFFF" />
+  <img src="https://geps.dev/progress/90?dangerColor=00BFFF&warningColor=00BFFF&successColor=00BFFF" width="600" height="25" />
   <br><br>
   
   <b>SQL Server - Advanced (85%)</b><br>
-  <img src="https://progress-bar.dev/85/?title=&width=600&color=32CD32" />
+  <img src="https://geps.dev/progress/85?dangerColor=32CD32&warningColor=32CD32&successColor=32CD32" width="600" height="25" />
   <br><br>
   
   <b>Microservices - Advanced (88%)</b><br>
-  <img src="https://progress-bar.dev/88/?title=&width=600&color=FFD700" />
+  <img src="https://geps.dev/progress/88?dangerColor=FFD700&warningColor=FFD700&successColor=FFD700" width="600" height="25" />
   <br><br>
   
   <b>Cloud / DevOps - Intermediate (70%)</b><br>
-  <img src="https://progress-bar.dev/70/?title=&width=600&color=FF4500" />
+  <img src="https://geps.dev/progress/70?dangerColor=FF4500&warningColor=FF4500&successColor=FF4500" width="600" height="25" />
 </p>
 
 <!-- DIVIDER -->
@@ -206,17 +202,17 @@
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <!-- ========================================== -->
-<!-- 🚀 ROADMAP & FUTURE ENHANCEMENTS -->
+<!-- 🚀 ROADMAP & FUTURE ENHANCEMENTS (based on project) -->
 <!-- ========================================== -->
 
 ## 🚀 **PROJECT ROADMAP**
 
 | Phase | Status | Features |
 |-------|--------|----------|
-| **Phase 1** | ✅ **Completed** | 8 Microservices, JWT+OTP Auth, 6 Admin Roles, Angular Dashboards, Shared DataAccessLayer |
-| **Phase 2** | 🚀 **In Progress (40%)** | Azure Cloud Deployment, Real-time Tracking, SMS/Email Alerts, Performance Tuning |
-| **Phase 3** | 🔮 **Planned (15%)** | AI Recommendations, Prescription OCR, Stripe Integration, PWA Support |
-| **Phase 4** | 🌟 **Future (5%)** | Blockchain Records, Telemedicine, Multi-pharmacy Support, Mobile Apps |
+| **Phase 1** | ✅ **Completed** | 8 Microservices (Auth, Drug, Order, Payment, Sales, Supplier Inventory, Inventory, API Gateway), JWT+OTP/QR Authentication, 6 Admin Roles with RBAC, Role-Specific Angular Dashboards, Shared DataAccessLayer with Email & Exception Handling |
+| **Phase 2** | 🚀 **In Progress (40%)** | Azure Cloud Deployment, Real-time Inventory Tracking, SMS/Email Alerts for Low Stock, Performance Tuning & Load Balancing |
+| **Phase 3** | 🔮 **Planned (15%)** | AI-based Drug Recommendations, Prescription OCR Upload, Stripe/Razorpay Integration, PWA Support |
+| **Phase 4** | 🌟 **Future (5%)** | Blockchain for Medical Records, Telemedicine Integration, Multi-Pharmacy Support, Mobile Apps (iOS/Android) |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Phase_1-100%25_SUCCESS-FF69B4?style=for-the-badge" />

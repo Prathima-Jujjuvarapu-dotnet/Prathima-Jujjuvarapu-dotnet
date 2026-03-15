@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Prathima 👋
 
-<!--
-**Prathima-Jujjuvarapu-dotnet/Prathima-Jujjuvarapu-dotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer (.NET & Angular)
 
-Here are some ideas to get you started:
+I build scalable web applications using modern technologies like ASP.NET Core, Angular, and SQL Server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+Backend
+- .NET 8,9
+- ASP.NET Core Web API
+- Microservices
+- Entity Framework Core
+
+Frontend
+- Angular
+- TypeScript
+- HTML
+- CSS
+
+Database
+- SQL Server
+
+---
+
+## Projects
+
+### Pharmacy Management System
+Full stack microservices application for pharmacy operations including inventory, orders, payments, and supplier management.
+
+Tech Used:
+.NET 8, ASP.NET Core Web API, Angular, SQL Server, JWT Authentication, Microservices
+
+GitHub Repository:
+https://github.com/Prathima-Jujjuvarapu-dotnet/Pharmacy-Management-System
+
+---
+
+## About Me
+
+- Full Stack Developer
+- Passionate about building scalable applications
+- Interested in Cloud, Microservices, and AI integrations

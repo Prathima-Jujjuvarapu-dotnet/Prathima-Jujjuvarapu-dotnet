@@ -1,10 +1,12 @@
 <!-- ========================================== -->
-<!-- 🌟 FINAL WORKING PRO GITHUB README -->
+<!-- 🌟 FINAL SAFE & PRO README -->
 <!-- ========================================== -->
 
+<br>
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FF69B4&width=450&lines=Hi+%F0%9F%91%8B+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer"/>
 </h1>
+<br>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prathima-Jujjuvarapu-dotnet&style=flat-square&color=brightgreen" alt="Profile Views"/>
@@ -26,20 +28,20 @@
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/.NET-90%25-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-90%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-85%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLServer-80%25-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-90%25-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-90%25-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/Angular-85%25-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-85%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLServer-80%25-CC2927?style=for-the-badge&logo=Microsoft-SQL-Server&logoColor=white"/>
 </p>
 
 ---
 
 ## ⚡ Skill Levels
 <p align="left">
-![Backend](https://img.shields.io/badge/Backend-%2E%20NET%20C%23-90%25-FF69B4?style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-Angular%2085%25-00BFFF?style=for-the-badge)
-![Database](https://img.shields.io/badge/Database-SQL%20Server-80%25-32CD32?style=for-the-badge)
+![Backend](https://img.shields.io/badge/Backend-%2E%20NET%20C%23-90%25-FF69B4?style=flat)  
+![Frontend](https://img.shields.io/badge/Frontend-Angular%2085%25-00BFFF?style=flat)  
+![Database](https://img.shields.io/badge/Database-SQL%20Server-80%25-32CD32?style=flat)
 </p>
 
 ---

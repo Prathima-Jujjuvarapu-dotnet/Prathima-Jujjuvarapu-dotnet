@@ -1,11 +1,14 @@
 <!-- ========================================== -->
-<!-- 🌟 CLEAN & PRO GITHUB README – FULLY WORKING -->
+<!-- 🌟 FINAL WORKING PRO GITHUB README -->
 <!-- ========================================== -->
 
-# Hi, I'm Prathima 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=3000&pause=500&color=FF69B4&width=450&lines=Hi+%F0%9F%91%8B+I'm+Prathima;Full+Stack+.NET+%26+Angular+Developer"/>
+</h1>
 
-**Full Stack Developer (.NET & Angular)**  
-Building scalable web applications with real-world projects and professional skills.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prathima-Jujjuvarapu-dotnet&style=flat-square&color=brightgreen" alt="Profile Views"/>
+</p>
 
 ---
 
@@ -17,13 +20,6 @@ Building scalable web applications with real-world projects and professional ski
   <a href="https://www.linkedin.com/in/prathima-jujjuvarapu/">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prathima-Jujjuvarapu-dotnet&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </p>
 
 ---
@@ -41,14 +37,9 @@ Building scalable web applications with real-world projects and professional ski
 
 ## ⚡ Skill Levels
 <p align="left">
-<b>Backend (.NET / C# / API)</b><br>
-<img src="https://img.shields.io/badge/Backend-.NET%20C%23-90%25-FF69B4?style=for-the-badge"/><br>
-
-<b>Frontend (Angular / TypeScript / HTML / CSS)</b><br>
-<img src="https://img.shields.io/badge/Frontend-Angular%2085%25-00BFFF?style=for-the-badge"/><br>
-
-<b>Database (SQL Server)</b><br>
-<img src="https://img.shields.io/badge/Database-SQL%20Server-80%25-32CD32?style=for-the-badge"/>
+![Backend](https://img.shields.io/badge/Backend-%2E%20NET%20C%23-90%25-FF69B4?style=for-the-badge)
+![Frontend](https://img.shields.io/badge/Frontend-Angular%2085%25-00BFFF?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-SQL%20Server-80%25-32CD32?style=for-the-badge)
 </p>
 
 ---
@@ -73,5 +64,5 @@ Building scalable web applications with real-world projects and professional ski
 
 ## 🌌 Footer
 <p align="center">
-  Made with 💖 by **Prathima** | Clean & Pro GitHub README  
+  Made with 💖 by **Prathima** | Fully Working Pro GitHub README  
 </p>
